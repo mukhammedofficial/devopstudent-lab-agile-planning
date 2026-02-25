@@ -1,4 +1,4 @@
-Hi. My name is Muhammad
-I work as a Senior IT Systems Operations Specialist
-I have experience supporting enterprise applications and databases
-I am currently learning Agile Development and Scrum
+-Hi. My name is Muhammad
+-I work as a Senior IT Systems Operations Specialist
+-I have experience supporting enterprise applications and databases
+-I am currently learning Agile Development and Scrum
