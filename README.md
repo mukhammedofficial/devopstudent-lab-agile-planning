@@ -135,7 +135,7 @@ This project is licensed under the **Apache License 2.0**.
   **Muhammad(Muhammadayubkhon) Dadakhanov**
 
  - GitHub: [@mukhammedofficial](https://github.com/mukhammedofficial)
- - Course: IBM - **Getting Started with Git and GitHub**
+ - Course: IBM - **AGILE**
  - Project Repository: [github-final-project](https://github.com/mukhammedofficial/devopstudent-lab-agile-planning)
 ---
 
